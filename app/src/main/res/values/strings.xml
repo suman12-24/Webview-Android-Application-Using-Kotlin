@@ -1,0 +1,19 @@
+<resources>
+
+    <string name="app_name">Hotel Sudhritri</string>
+
+    <!--    Comment the value that should be hidden-->
+    <string-array name="media_option">
+        <item>Camera</item>
+
+        <!--<item>Capture Video</item>-->
+        <item>Gallery</item>
+        <item>cancel</item>
+    </string-array>
+
+    <string name="selectpngorjpeg">\"Select PNG or JPEG file only\"</string>
+
+    <string name="need_camera_file_permission">Permission Required</string>
+    <string name="upload_file_size_error_msg">Please upload file size less than %d MB</string>
+
+</resources>
